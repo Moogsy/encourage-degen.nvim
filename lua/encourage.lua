@@ -1,18 +1,31 @@
 local M = {}
 
 local default_encouragements = {
-  "Great job! ✨",
-  "You're doing great! 💪",
-  "Keep up the good work! 🌟",
-  "Well done! 🎉",
-  "Onward and upward! 🚀",
-  "You're on fire! 🔥",
-  "You're a star! ⭐️",
-  "You're amazing! 🌈",
-  "That was awesome! 🎈",
-  "Smart move. 🧠",
-  "Bravo! 👏",
-  "Nailed it. 🔨",
+    "Such a naughty pet, doing exactly what I want 😏🐾",
+    "Mmm, you're so obedient, just like a good pet should be 🍑🐶",
+    "You're making me so proud, keep being my dirty little pet 🖤🐾",
+    "Good pet, you know exactly how to please your master 🥵🐾",
+    "Look at you, being such a perfect plaything for me 😈🐕",
+    "Such a good pet, taking it all like a champ 💦🐾",
+    "You're so eager to please, it's driving me wild 😍🐾",
+    "You're my favorite, always ready for more fun 🔥🐶",
+    "Mmm, keep going, you're making me so proud 😏🐕",
+    "Such a naughty pet, you love being used like this 😈🐾",
+    "You're so eager, it’s impossible to resist you 🖤🐕",
+    "I love seeing you get so into it, my little plaything 😈🐶",
+    "You bring out the best in me, my eager pet 😏🐾",
+    "Keep it up, you're making me so proud, my dirty pet 🥵🐕",
+    "You're the best at what you do, always leaving me wanting more 😈🐾",
+    "You're nothing but my toy, here to satisfy me 😈🐾",
+    "I love breaking you down, my little pet 😏🐕",
+    "Good pet, you know your place beneath me 🖤🐾",
+    "You're so filthy, just how I like it 😈💦",
+    "I own you, my dirty little pet, and you love it 🖤🐕",
+    "Keep begging, pet, you know how much I enjoy it 😈🐶",
+    "You're my perfect little pervert, always ready to obey 😏🔥",
+    "I love how you surrender completely to me 🖤🐕",
+    "Good pet, you exist to please me and you do it so well 😈🐾",
+    "You're my naughty little secret, always ready for more 😈🐶"
 }
 
 local function show_floating_message(message)
